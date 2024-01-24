@@ -68,7 +68,7 @@
     }
   },
   "dependencies": {
-    "@curvefi/api": "^2.41.0",
+    "@curvefi/api": "^2.53.6",
     "@uniswap/sdk-core": "^3.1.1",
     "@uniswap/smart-order-router": "^3.5.0",
     "coingecko-api": "^1.0.10",
