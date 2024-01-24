@@ -76,6 +76,6 @@
     "decimal.js": "^10.3.1",
     "envfile": "^6.17.0",
     "hardhat-ethers": "^1.0.1",
-    "yarn": "^1.22.10"
+    "yarn": "^1.22.21"
   }
 }
